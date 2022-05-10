@@ -6,7 +6,7 @@
 $ npm i -g native-run 
 $ npm i -g cordova
 ```
-- Then run this so that it can prepare the build for browser
+- Then run this so that it can prepare the build for browser (you'll need to update the platform to whatever you want to run on)
 ```
 $ ionic cordova build browser
 ```
